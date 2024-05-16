@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Country
+comment1.params=
+comment1.target=Country()
+comment10.params=
+comment10.target=void\ printCountry()
+comment2.params=n\ p\ a
+comment2.target=Country(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getPop()
+comment5.params=
+comment5.target=int\ getArea()
+comment6.params=
+comment6.target=int\ getDensity()
+comment7.params=n
+comment7.target=void\ setName(java.lang.String)
+comment8.params=p
+comment8.target=void\ setPop(int)
+comment9.params=a
+comment9.target=void\ setArea(int)
+numComments=11
